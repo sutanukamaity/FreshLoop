@@ -15,7 +15,5 @@ FreshLoop is an AI-powered food waste prevention platform that makes food manage
 📊 **Make smarter decisions** through AI-powered insights and analytics.
 
 Our mission is simple: **Prevent food waste before it happens, not just manage it afterwards.**
-
 We're building a future where technology meets sustainability, one smart food decision at a time.
-
 🌍 **Less Waste. More Value. A Better Tomorrow.**
